@@ -8,6 +8,46 @@
           "id": "sport1",
           "image": "https://cdn.jsdelivr.net/gh/promptbookstore/app-ilinotes-themes/categories/sport/sport1.webp",
           "premium": false
+        },
+        {
+          "id": "sport2",
+          "image": "https://cdn.jsdelivr.net/gh/promptbookstore/app-ilinotes-themes/categories/sport/sport2.webp",
+          "premium": false
+        },
+        {
+          "id": "sport3",
+          "image": "https://cdn.jsdelivr.net/gh/promptbookstore/app-ilinotes-themes/categories/sport/sport3.webp",
+          "premium": false
+        },
+        {
+          "id": "sport4",
+          "image": "https://cdn.jsdelivr.net/gh/promptbookstore/app-ilinotes-themes/categories/sport/sport4.webp",
+          "premium": false
+        },
+        {
+          "id": "sport5",
+          "image": "https://cdn.jsdelivr.net/gh/promptbookstore/app-ilinotes-themes/categories/sport/sport5.webp",
+          "premium": false
+        },
+        {
+          "id": "sport6",
+          "image": "https://cdn.jsdelivr.net/gh/promptbookstore/app-ilinotes-themes/categories/sport/sport6.webp",
+          "premium": false
+        },
+        {
+          "id": "sport7",
+          "image": "https://cdn.jsdelivr.net/gh/promptbookstore/app-ilinotes-themes/categories/sport/sport7.webp",
+          "premium": false
+        },
+        {
+          "id": "sport8",
+          "image": "https://cdn.jsdelivr.net/gh/promptbookstore/app-ilinotes-themes/categories/sport/sport8.webp",
+          "premium": false
+        },
+        {
+          "id": "sport9",
+          "image": "https://cdn.jsdelivr.net/gh/promptbookstore/app-ilinotes-themes/categories/sport/sport9.webp",
+          "premium": false
         }
       ]
     }
