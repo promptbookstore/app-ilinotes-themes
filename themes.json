@@ -1,0 +1,15 @@
+{
+  "categories": [
+    {
+      "id": "sport",
+      "name": "Sport",
+      "themes": [
+        {
+          "id": "sport1",
+          "image": "https://cdn.jsdelivr.net/gh/promptbookstore/app-ilinotes-themes/categories/sport/sport1.webp",
+          "premium": false
+        }
+      ]
+    }
+  ]
+}
